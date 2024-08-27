@@ -3,29 +3,19 @@
 ### 42 School Projects
 <div align="center">
 
-<a href="https://github.com/damiandania/Libft">![Project pic](https://github.com/damiandania/damiandania/blob/main/Pics/CPP.png)</a>
-<a href="https://github.com/damiandania/Get_next_line">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/Get_next_line.png)</a>
-<a href="https://github.com/damiandania/Printf">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/Printf.png)</a>
-<a href="https://github.com/damiandania/So_long">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/fract-ole.png)</a>
-<a href="https://github.com/damiandania/pipex">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/pipexe.png)</a>
-<a href="https://github.com/damiandania/Push_swap">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/push_swape.png)</a>
-<a href="https://github.com/damiandania/Philosophers">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/philosopherse.png)</a>
-<a href="https://github.com/damiandania/Minishell">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/minishelle.png)</a>
-<a href="https://github.com/damiandania/Net_practice">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/netpracticee.png)</a>
-<a href="https://github.com/damiandania/Cpp_Modules">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/cppe.png)</a>
-<a href="https://github.com/damiandania/Cub3d">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/cub3de.png)</a>
-<a href="https://github.com/damiandania/Wevserv">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/ft_irce.png)</a>
-<a href="https://github.com/damiandania/inception">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/inceptione.png)</a>
-<a href="https://github.com/damiandania/transcendance">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/ft_transcendencee.png)</a>
+<a href="https://github.com/damiandania/Libft"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/CPP.png" alt="Project pic" width="100" height="100"></a>
+<a href="https://github.com/damiandania/Get_next_line"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Get_next_line.png" alt="Project pic" width="100" height="100"></a>
+<a href="https://github.com/damiandania/Printf"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Printf.png" alt="Project pic" width="100" height="100"></a>
+<a href="https://github.com/damiandania/So_long"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/So_long.png" alt="Project pic" width="100" height="100"></a>
+<a href="https://github.com/damiandania/pipex"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Pipex.png" alt="Project pic" width="100" height="100"></a>
+<a href="https://github.com/damiandania/Push_swap"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Push_swap.png" alt="Project pic" width="100" height="100"></a>
+<a href="https://github.com/damiandania/Philosophers"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Philosophers.png" alt="Project pic" width="100" height="100"></a>
+<a href="https://github.com/damiandania/Minishell"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Minishell.png" alt="Project pic" width="100" height="100"></a>
+<a href="https://github.com/damiandania/Net_practice"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/NetPractice.png" alt="Project pic" width="100" height="100"></a>
+<a href="https://github.com/damiandania/Cpp_Modules"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/CPP.png" alt="Project pic" width="100" height="100"></a>
+<a href="https://github.com/damiandania/Cub3d"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Cub3d.png" alt="Project pic" width="100" height="100"></a>
+<a href="https://github.com/damiandania/Wevserv"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/ft_irce.png" alt="Project pic" width="100" height="100"></a>
+<a href="https://github.com/damiandania/inception"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Inception.png" alt="Project pic" width="100" height="100"></a>
+<a href="https://github.com/damiandania/transcendance"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Transcendence.png" alt="Project pic" width="100" height="100"></a>
 
 </div>
-
-<!-- ---
-
-### GitHub Stats
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiandania&hide=java,html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![damiandania's GitHub stats](https://github-readme-stats.vercel.app/api?username=damiandania&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div> -->
