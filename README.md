@@ -3,7 +3,7 @@
 ### 42 School Projects
 <div align="center">
 
-<a href="https://github.com/damiandania/Libft">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/CPP.png)</a>
+<a href="https://github.com/damiandania/Libft">![Project pic](https://github.com/damiandania/damiandania/blob/main/Pics/CPP.png)</a>
 <a href="https://github.com/damiandania/Get_next_line">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/Get_next_line.png)</a>
 <a href="https://github.com/damiandania/Printf">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/Printf.png)</a>
 <a href="https://github.com/damiandania/So_long">![Project pic](https://github.com/damiandania/damiandania/blob/main/pics/fract-ole.png)</a>
