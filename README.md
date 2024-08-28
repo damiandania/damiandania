@@ -5,9 +5,9 @@
 
 <a href="https://github.com/damiandania/transcendance"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Transcendence.png" alt="Project pic" width="150" height="150"></a>
 <a href="https://github.com/damiandania/Invaders"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Invaders.png" alt="Project pic" width="150" height="150"></a>
-<a href="https://github.com/damiandania/inception"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Inception.png" alt="Project pic" width="150" height="150"></a>
-<a href="https://github.com/damiandania/Wevserv"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Webserv.png" alt="Project pic" width="150" height="150"></a>
-<a href="https://github.com/damiandania/Cpp_Modules"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/CPP.png" alt="Project pic" width="150" height="150"></a>
+<a href="https://github.com/damiandania/Inception"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Inception.png" alt="Project pic" width="150" height="150"></a>
+<a href="https://github.com/damiandania/Webserv"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Webserv.png" alt="Project pic" width="150" height="150"></a>
+<a href="https://github.com/damiandania/Cpp"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/CPP.png" alt="Project pic" width="150" height="150"></a>
 <a href="https://github.com/damiandania/Cub3d"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Cub3d.png" alt="Project pic" width="150" height="150"></a>
 <a href="https://github.com/damiandania/NetPractice"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Netpractice.png" alt="Project pic" width="150" height="150"></a>
 <a href="https://github.com/damiandania/Minishell"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Minishell.png" alt="Project pic" width="150" height="150"></a>
