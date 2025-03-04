@@ -7,7 +7,8 @@
 		<a href="https://github.com/emilours/Transcendence"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Transcendence.png" alt="Project pic" width="150" height="150"></a>
 	</div>
 	<div>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+		<i class="devicon-django-plain" width="20" height="20"></i>
+		<i class="devicon-django-plain" width="20" height="20"></i>
 	</div>
 </div>
 <a href="https://github.com/damiandania/Invaders"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Invaders.png" alt="Project pic" width="150" height="150"></a>
@@ -26,3 +27,5 @@
 <a href="https://github.com/damiandania/Libft"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Libft.png" alt="Project pic" width="150" height="150"></a>
 
 </div>
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
