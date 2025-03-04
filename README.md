@@ -2,7 +2,7 @@
 
 ### 42 School Projects
 <div align="center">
-  <table style="border-radius: 10px;>
+  <table style="border-radius: 10px;">
     <tr>
       <td align="center">
         <a href="https://github.com/emilours/Transcendence">
