@@ -2,8 +2,8 @@
 
 ### 42 School Projects
 <div align="center">
-  <table style="border-radius: 10px;">
-    <tr>
+  <table>
+    <tr style="border-radius: 10px;">
       <td align="center">
         <a href="https://github.com/emilours/Transcendence">
           <img src="https://github.com/damiandania/damiandania/blob/main/Pics/Transcendence.png" alt="Project pic" width="150" height="150">
