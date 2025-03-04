@@ -1,7 +1,6 @@
 ## Hi my name is Damian 👋
 
 ### 42 School Projects
-<div style="border-radius: 8px; overflow: hidden; border: 1px solid #ddd; display: inline-block; padding: 10px;">
 <div align="center">
   <table>
     <tr>
@@ -120,5 +119,4 @@
       </td>
     </tr>
   </table>
-</div>
 </div>
