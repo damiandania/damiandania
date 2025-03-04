@@ -2,8 +2,14 @@
 
 ### 42 School Projects
 <div align="center">
-
-<a href="https://github.com/emilours/Transcendence"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Transcendence.png" alt="Project pic" width="150" height="150"></a>
+<div>
+	<div>
+		<a href="https://github.com/emilours/Transcendence"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Transcendence.png" alt="Project pic" width="150" height="150"></a>
+	</div>
+	<div>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+	</div>
+</div>
 <a href="https://github.com/damiandania/Invaders"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Invaders.png" alt="Project pic" width="150" height="150"></a>
 <a href="https://github.com/damiandania/Inception"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Inception.png" alt="Project pic" width="150" height="150"></a>
 <a href="https://github.com/damiandania/Webserv"><img src="https://github.com/damiandania/damiandania/blob/main/Pics/Webserv.png" alt="Project pic" width="150" height="150"></a>
