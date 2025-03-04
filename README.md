@@ -1,9 +1,10 @@
 ## Hi my name is Damian 👋
 
 ### 42 School Projects
+<div style="border-radius: 8px; overflow: hidden; border: 1px solid #ddd; display: inline-block; padding: 10px;">
 <div align="center">
   <table>
-    <tr style="border-radius: 10px;">
+    <tr>
       <td align="center">
         <a href="https://github.com/emilours/Transcendence">
           <img src="https://github.com/damiandania/damiandania/blob/main/Pics/Transcendence.png" alt="Project pic" width="150" height="150">
@@ -119,4 +120,5 @@
       </td>
     </tr>
   </table>
+</div>
 </div>
