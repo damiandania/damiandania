@@ -16,7 +16,7 @@
           <img src="https://github.com/damiandania/damiandania/blob/main/Pics/Invaders.png" alt="Project pic" width="150" height="150">
         </a>
         <br>
-        <i>Classic arcade game clone using C and SDL</i>
+        <i>Classic arcade game using JS</i>
       </td>
       <td align="center">
         <a href="https://github.com/damiandania/Inception">
