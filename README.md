@@ -1,19 +1,27 @@
 <div align="center">
 
-# Hi, I'm Damian 👋
-
-### Fullstack Engineer · Paris, France 🇫🇷
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=Ship+Fast%2C+Scale+Smart%2C+Deploy+Often.;42+Paris+graduate+%C2%B7+Architecture+%26+security+first;Interfaces+that+delight%2C+systems+that+never+break." alt="Typing tagline" />
+<a href="https://damiandania.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/damiandania/damiandania/main/assets/dania-mark-white.svg" />
+    <img src="https://raw.githubusercontent.com/damiandania/damiandania/main/assets/dania-mark-ink.svg" width="72" alt="Damian Dania" />
+  </picture>
 </a>
 
-<br/>
+# Hi, I'm Damian 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://damiandania.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damiandania/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damiandania@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://damiandania.com)
+##### FULLSTACK ENGINEER &nbsp;·&nbsp; PARIS, FRANCE 🇫🇷
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=640&height=40&lines=Ship+Fast%2C+Scale+Smart%2C+Deploy+Often.;42+Paris+graduate+%C2%B7+Architecture+%26+security+first;Interfaces+that+delight%2C+systems+that+never+break." alt="Ship Fast, Scale Smart, Deploy Often" />
+</a>
+
+<p>
+  <a href="https://damiandania.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/damiandania/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:damiandania@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20work-15803D?style=flat-square&labelColor=15803D" alt="Available for work" />
 
 </div>
 
