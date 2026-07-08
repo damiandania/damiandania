@@ -226,17 +226,6 @@ principles:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=damiandania&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=808080)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damiandania&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=808080&langs_count=8)
-
-</div>
-
----
-
 <div align="center">
 
 *Fullstack engineer focused on architecture, security, and interfaces that feel right.*
