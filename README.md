@@ -39,41 +39,70 @@ principles:
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
+<sub><b>LANGUAGES</b></sub>
+<table>
+  <tr>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/typescript.svg?color=%233178C6&width=44&height=44" width="44" height="44" alt="TypeScript" /><br/><sub>TypeScript</sub></td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/javascript.svg?color=%23F7DF1E&width=44&height=44" width="44" height="44" alt="JavaScript" /><br/><sub>JavaScript</sub></td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/python.svg?color=%233776AB&width=44&height=44" width="44" height="44" alt="Python" /><br/><sub>Python</sub></td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/swift.svg?color=%23F05138&width=44&height=44" width="44" height="44" alt="Swift" /><br/><sub>Swift</sub></td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/php.svg?color=%23777BB4&width=44&height=44" width="44" height="44" alt="PHP" /><br/><sub>PHP</sub></td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/c.svg?color=%2300599C&width=44&height=44" width="44" height="44" alt="C" /><br/><sub>C</sub></td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/cplusplus.svg?color=%2300599C&width=44&height=44" width="44" height="44" alt="C++" /><br/><sub>C++</sub></td>
+  </tr>
+</table>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<sub><b>FRONTEND</b></sub>
+<table>
+  <tr>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/vuedotjs.svg?color=%2342D392&width=44&height=44" width="44" height="44" alt="Vue" /><br/><sub>Vue</sub></td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/nuxtdotjs.svg?color=%2300DC82&width=44&height=44" width="44" height="44" alt="Nuxt" /><br/><sub>Nuxt</sub></td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/react.svg?color=%2361DAFB&width=44&height=44" width="44" height="44" alt="React" /><br/><sub>React</sub></td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/astro.svg?color=%23FF5D01&width=44&height=44" width="44" height="44" alt="Astro" /><br/><sub>Astro</sub></td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/tailwindcss.svg?color=%2338BDF8&width=44&height=44" width="44" height="44" alt="Tailwind CSS" /><br/><sub>Tailwind</sub></td>
+  </tr>
+</table>
 
-**Frontend**
+<sub><b>BACKEND · DATA</b></sub>
+<table>
+  <tr>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%235FA04E&width=44&height=44" width="44" height="44" alt="Node.js" /><br/><sub>Node.js</sub></td>
+    <td align="center" width="88">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/django.svg?color=%2344B78B&width=44&height=44" />
+        <img src="https://api.iconify.design/simple-icons/django.svg?color=%23092E20&width=44&height=44" width="44" height="44" alt="Django" />
+      </picture><br/><sub>Django</sub>
+    </td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/supabase.svg?color=%233ECF8E&width=44&height=44" width="44" height="44" alt="Supabase" /><br/><sub>Supabase</sub></td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%23336791&width=44&height=44" width="44" height="44" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/mysql.svg?color=%2300618A&width=44&height=44" width="44" height="44" alt="MySQL" /><br/><sub>MySQL</sub></td>
+  </tr>
+</table>
 
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend · Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**DevOps · AI**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+<sub><b>DEVOPS · AI</b></sub>
+<table>
+  <tr>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/docker.svg?color=%232496ED&width=44&height=44" width="44" height="44" alt="Docker" /><br/><sub>Docker</sub></td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/nginx.svg?color=%23009639&width=44&height=44" width="44" height="44" alt="Nginx" /><br/><sub>Nginx</sub></td>
+    <td align="center" width="88">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/vercel.svg?color=%23FFFFFF&width=44&height=44" />
+        <img src="https://api.iconify.design/simple-icons/vercel.svg?color=%23000000&width=44&height=44" width="44" height="44" alt="Vercel" />
+      </picture><br/><sub>Vercel</sub>
+    </td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/git.svg?color=%23F05032&width=44&height=44" width="44" height="44" alt="Git" /><br/><sub>Git</sub></td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/claude.svg?color=%23D97757&width=44&height=44" width="44" height="44" alt="Claude" /><br/><sub>Claude</sub></td>
+    <td align="center" width="88">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/openai.svg?color=%23FFFFFF&width=44&height=44" />
+        <img src="https://api.iconify.design/simple-icons/openai.svg?color=%23000000&width=44&height=44" width="44" height="44" alt="GPT" />
+      </picture><br/><sub>GPT</sub>
+    </td>
+    <td align="center" width="88"><img src="https://api.iconify.design/simple-icons/googlegemini.svg?color=%230C98F0&width=44&height=44" width="44" height="44" alt="Gemini" /><br/><sub>Gemini</sub></td>
+  </tr>
+</table>
+</div>
 
 ---
 
