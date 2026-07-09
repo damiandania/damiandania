@@ -122,8 +122,8 @@ principles:
 | Project | What it is | Stack |
 |---|---|---|
 | **[Nemausus](https://nemausus-rouge.vercel.app)** 🟢 | Interactive 3D heritage platform for the monuments of Nîmes — AR-ready models, a 3D encyclopedia, multilingual content and a gamified scavenger hunt. | `Nuxt` `Vue` `TS` `Supabase` `GSAP` |
-| **[Nemausus Dashboard](https://nemausus-dashboard.vercel.app)** 🔒 | Analytics & admin console for the Nemausus experience — visits, audio tours, scavenger hunts and QR scanning. | `Nuxt` `Vue` `TS` `Supabase` `PostgreSQL` |
-| **[MiddleSpace](https://middlespace.app)** 🚧 | Client-file micro-SaaS: secure uploads, rule-based media processing (sharp + ffmpeg) and multi-org storage with RLS, MFA/passkeys and an AI agent layer. | `Nuxt` `Vue` `TS` `Supabase` `Claude` |
+| **Nemausus Dashboard** 🔒 | Analytics & admin console for the Nemausus experience — visits, audio tours, scavenger hunts and QR scanning. | `Nuxt` `Vue` `TS` `Supabase` `PostgreSQL` |
+| **MiddleSpace** 🚧 | Client-file micro-SaaS: secure uploads, rule-based media processing (sharp + ffmpeg) and multi-org storage with RLS, MFA/passkeys and an AI agent layer. | `Nuxt` `Vue` `TS` `Supabase` `Claude` |
 | **[Dev Monitor](https://github.com/damiandania/DevMonitor)** 📖 | Native macOS supervisor that launches, watches and auto-recycles your JS/TS dev servers — live CPU/memory graphs, crash revival and AI diagnostics. | `Swift` `SwiftUI` `Claude` |
 | **Insight Core** 🚧 | RCS activation platform with a Vue Flow visual scenario editor, contact-list campaigns, conversation tracking and a Claude assistant that co-builds scenarios. | `Nuxt` `Vue` `TS` `Supabase` `Twilio` |
 | **RYM Platform** 🔒 | B2B marketing-ops SaaS: media packs, custom campaign "levers", POS material orders and Sellsy-integrated invoicing. | `Nuxt` `Vue` `TS` `Supabase` `Resend` |
